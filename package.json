@@ -2,7 +2,7 @@
     "name": "exemple",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://mosenka.github.io/react_test",
+    "homepage": "https://mosenka.github.io/react",
     "dependencies": {
         "@testing-library/jest-dom": "^5.11.10",
         "@testing-library/react": "^11.2.6",
