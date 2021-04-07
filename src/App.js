@@ -9,6 +9,7 @@ function App() {
         <p>
           Test text
         </p>
+        <p>new text</p>
         
       </header>
     </div>
